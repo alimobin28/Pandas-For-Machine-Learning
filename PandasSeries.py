@@ -19,4 +19,4 @@ print(s1)
 
 # Accessing from labels(index)
 
-print("Value Accessed from labels : ")
+print("Value Accessed from labels in Row D : ",s1["Row D"])
