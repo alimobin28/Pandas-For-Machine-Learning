@@ -1,0 +1,51 @@
+import pandas as pd
+
+# Creating a Series
+marks = pd.Series([40, 50, 60, 70], 
+                  index=["Student A", "Student B", "Student C", "Student D"], 
+                  name="Marks")
+
+print("🎯 Student Marks (Series):\n", marks)
+print("\n")
+
+# Series name
+print("📛 Series Name: ", marks.name)
+print("-----------------------------")
+
+# Data type
+print("📄 Data Type: ", marks.dtypes)
+print("-----------------------------")
+
+# Number of dimensions
+print("📐 Data Dimensions: ", marks.ndim)
+print("-----------------------------")
+
+# Number of elements
+print("🔢 Data Elements: ", marks.size)
+print("-----------------------------")
+
+# Shape
+print("📏 Data Shape: ", marks.shape)
+print("-----------------------------")
+
+# Index
+print("📌 Data Index: ", marks.index)
+print("-----------------------------")
+
+# First 2 values
+print("📈 First 2 Rows:\n", marks.head(2))
+print("-----------------------------")
+
+# Last 2 values
+print("📉 Last 2 Rows:\n", marks.tail(2))
+print("-----------------------------")
+
+# Check if Series has any NaN values
+print("❓ Has NaN Values?: ", marks.hasnans)
+print("-----------------------------")
+
+# Use info() by converting to DataFrame
+marks_df = marks.to_frame()
+print("ℹ️ Series Info (using DataFrame):")
+marks_df.info()
+print("-----------------------------")
