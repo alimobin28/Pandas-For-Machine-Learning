@@ -1,3 +1,6 @@
+# This file includes Attributes for Data Frame (dtypes,ndim,shape , size etc)
+
+
 import pandas as pd
 
 data ={

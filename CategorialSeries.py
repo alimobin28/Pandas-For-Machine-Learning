@@ -1,3 +1,6 @@
+# This File includes Cateogorial Series basics and how to convert to Categorial Series with two
+# functions append and removal of categories
+
 import pandas as pd
 
 data1= ["p","q","r","s"]

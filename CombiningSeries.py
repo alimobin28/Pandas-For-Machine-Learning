@@ -1,3 +1,4 @@
+# This file includes Combining of two series(choosing max among two) using combine function
 import pandas as pd
 
 def max(x1,x2):
