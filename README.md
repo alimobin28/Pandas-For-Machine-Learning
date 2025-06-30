@@ -1,4 +1,4 @@
-📊 Pandas for Machine Learning – Practice Material
+# #📊 Pandas for Machine Learning – Practice Material
 
 
 Welcome to the Pandas for ML practice repository!
@@ -21,7 +21,7 @@ Or simply analyzing trends,
 
 Pandas makes it easier and faster to work with tabular data, which is the foundation of most ML problems.
 
-📁 What's Inside?
+# #📁 What's Inside?
 This repository includes:
 
 ✅ Practice Notebooks & Scripts
