@@ -6,7 +6,7 @@ This repo provides a structured and hands-on roadmap (with numbered topics) to h
 🧭 Roadmap Overview
 Below is the recommended learning path (1–27) broken into key stages:
 
-🔹 1–24: Data Handling & Cleaning
+#🔹 1–24: Data Handling & Cleaning
 Master the art of loading, cleaning, and manipulating data in Pandas — the foundation of all ML projects.
 
 Step	Topic
@@ -25,7 +25,7 @@ Step	Topic
 ✅ 21	Clean the Data
 ✅ 24	Remove Whitespace
 
-#⚙️ 10–26: Feature Engineering with Pandas
+# ⚙️ 10–26: Feature Engineering with Pandas
 Learn how to transform and enrich your data for better ML performance.
 
   Step  Topic
@@ -36,7 +36,7 @@ Learn how to transform and enrich your data for better ML performance.
 ✅ 25	  Group the Data
 ✅ 26	  Statistical Functions
 
-📊 19 & 27: Data Exploration & Visualization
+# 📊 19 & 27: Data Exploration & Visualization
 Basic EDA (Exploratory Data Analysis) is key to understanding your data before modeling.
 
 Step	Topic
