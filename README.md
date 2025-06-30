@@ -6,7 +6,7 @@ This repo provides a structured and hands-on roadmap (with numbered topics) to h
 🧭 Roadmap Overview
 Below is the recommended learning path (1–27) broken into key stages:
 
-#🔹 1–24: Data Handling & Cleaning
+# 🔹 1–24: Data Handling & Cleaning
 Master the art of loading, cleaning, and manipulating data in Pandas — the foundation of all ML projects.
 
 Step	Topic
